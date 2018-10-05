@@ -1,0 +1,24 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn git and node",
+  "main": "indexjha.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo\"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehasaint/git-test.git"
+  },
+  "author": "Snehasaint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snehasaint/git-test/issues"
+  },
+  "homepage": "https://github.com/snehasaint/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
